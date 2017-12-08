@@ -1,0 +1,5 @@
+There must be a means to implement a force to control the motion of the mass
+There should be means to monitor the behaviour of the system 
+There must be a feedback control method to match the output to the specified input
+There must be a user input method to define the control of the mass
+There should be a method to display associated data 
